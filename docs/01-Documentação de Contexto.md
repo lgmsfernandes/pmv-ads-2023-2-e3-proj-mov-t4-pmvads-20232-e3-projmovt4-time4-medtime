@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O acesso e a administração adequada de medicamentos são aspectos vitais para a saúde e o bem-estar da população. No entanto, estatísticas alarmantes demonstram que o não cumprimento do tratamento, especialmente em relação ao horário correto, é um desafio substancial que afeta a adesão terapêutica e pode resultar em consequências negativas para a saúde. De acordo com pesquisas, a não adesão à medicação, especialmente em relação ao horário correto, pode ocorrer por uma variedade de motivos complexos e multifacetados.  
+
+O esquecimento é uma das principais razões pelas quais muitas pessoas não conseguem tomar seus medicamentos nos horários corretos. Em meio à agitação da vida cotidiana, as tarefas diárias podem obscurecer a lembrança crucial de uma dose de medicamento. A ausência de uma rotina consistente ou a presença de distrações podem facilmente fazer com que os horários de dosagem passem despercebidos. O esquecimento pode também estar ligado à memória reduzida associada ao envelhecimento, e é  um dos principais motivos pelos quais muitos idosos não conseguem tomar seus medicamentos nos horários adequados. A complexidade dos regimes de tratamento também desempenha um papel significativo na não adesão. Quando um paciente precisa tomar vários medicamentos em diferentes horários e doses, pode ser difícil acompanhar e seguir um cronograma rigoroso. 
+
+Diante disso, torna-se essencial que existam soluções eficazes para auxiliar os pacientes, a aderirem de maneira consistente aos seus regimes de tratamento. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
