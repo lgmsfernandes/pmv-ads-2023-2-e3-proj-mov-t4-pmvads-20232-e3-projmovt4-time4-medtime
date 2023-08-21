@@ -13,7 +13,6 @@ Descreva também o contexto em que essa aplicação será usada, se  houver: emp
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-
 ## Objetivos
 
 O objetivo principal deste trabalho é desenvolver um software inovador que aborde os desafios enfrentados no acesso, administração e adesão adequada a medicamentos, especialmente focado em pacientes com necessidades complexas de tratamento, como idosos e pessoas com condições médicas crônicas. Esse software buscará facilitar a organização, o gerenciamento e o acompanhamento dos regimes de tratamento medicamentoso, contribuindo assim para melhorar a qualidade de vida dos pacientes e reduzir os riscos associados à não adesão.
