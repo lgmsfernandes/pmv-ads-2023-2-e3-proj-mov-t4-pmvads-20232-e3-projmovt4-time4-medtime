@@ -85,7 +85,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O aplicativo deve ser executado sem problemas em diferentes tamanhos de tela e resoluções.  |  ALTA | 
 |RNF-003| O aplicativo deve fornecer fontes e  elementos de interface com tamanho suficiente para garantir a legibilidade em dispositivos móveis.  | ALTA | 
 |RNF-004| O aplicativo deve ser funcional tanto em conexões Wi-Fi quanto em redes móveis.  |  MÉDIA | 
-|RNF-005| Deve processar requisições do usuário em no máximo 5 segundos | BAIXA | 
+|RNF-005| O aplicativo deve processar requisições do usuário em no máximo 5 segundos. | BAIXA | 
 
 
 ## Restrições
