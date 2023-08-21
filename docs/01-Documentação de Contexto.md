@@ -17,8 +17,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 
 O objetivo principal deste trabalho é desenvolver um software inovador que aborde os desafios enfrentados no acesso, administração e adesão adequada a medicamentos, especialmente focado em pacientes com necessidades complexas de tratamento, como idosos e pessoas com condições médicas crônicas. Esse software buscará facilitar a organização, o gerenciamento e o acompanhamento dos regimes de tratamento medicamentoso, contribuindo assim para melhorar a qualidade de vida dos pacientes e reduzir os riscos associados à não adesão.
- 
-Ao cumprir esses objetivos, o software proposto será capaz de atender às necessidades identificadas, melhorando significativamente a gestão de medicamentos para pacientes e cuidadores, resultando em uma maior adesão ao tratamento e, consequentemente, melhorando a qualidade de vida dos pacientes.
+
 
 ## Justificativa
 
